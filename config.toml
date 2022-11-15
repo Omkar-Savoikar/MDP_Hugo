@@ -1,4 +1,4 @@
-baseURL = 'MDP_Hugo'
+baseURL = 'https://omkar-savoikar.github.io/MDP_Hugo/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme='aether'
