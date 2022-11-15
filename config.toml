@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'MDP_Hugo'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme='aether'
